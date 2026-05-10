@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+
+# VS Code
+.vscode/
+
+# Data
+data/raw/
