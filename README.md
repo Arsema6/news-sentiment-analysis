@@ -1,4 +1,4 @@
-# News Sentiment Analysis
+# Task 3
 
-Minimal project scaffold for news sentiment analysis. See subfolders for notebooks, scripts, and data.
-# Notes
+Computed technical indicators and correlated them with sentiment-based features.
+Observed how market indicators align with positive and negative news sentiment.
