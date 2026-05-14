@@ -1,4 +1,4 @@
-# News Sentiment Analysis
+# Task 2
 
-Minimal project scaffold for news sentiment analysis. See subfolders for notebooks, scripts, and data.
-# Notes
+Applied sentiment analysis techniques to financial news headlines using NLP methods.
+Extracted polarity trends to support stock movement prediction analysis.
